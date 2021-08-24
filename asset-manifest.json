@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/estafa/static/css/main.5b0784d6.chunk.css",
+    "main.js": "/estafa/static/js/main.e4ecbeae.chunk.js",
+    "main.js.map": "/estafa/static/js/main.e4ecbeae.chunk.js.map",
+    "runtime-main.js": "/estafa/static/js/runtime-main.9aa953d4.js",
+    "runtime-main.js.map": "/estafa/static/js/runtime-main.9aa953d4.js.map",
+    "static/js/2.a9a521a6.chunk.js": "/estafa/static/js/2.a9a521a6.chunk.js",
+    "static/js/2.a9a521a6.chunk.js.map": "/estafa/static/js/2.a9a521a6.chunk.js.map",
+    "static/js/3.530a1c65.chunk.js": "/estafa/static/js/3.530a1c65.chunk.js",
+    "static/js/3.530a1c65.chunk.js.map": "/estafa/static/js/3.530a1c65.chunk.js.map",
+    "index.html": "/estafa/index.html",
+    "static/css/main.5b0784d6.chunk.css.map": "/estafa/static/css/main.5b0784d6.chunk.css.map",
+    "static/js/2.a9a521a6.chunk.js.LICENSE.txt": "/estafa/static/js/2.a9a521a6.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/estafa/static/media/artbacc.1b8da4fc.jpg",
+    "static/media/cart.css": "/estafa/static/media/cartbacc.17447709.jpg",
+    "static/media/paint1.ebaecf69.jpg": "/estafa/static/media/paint1.ebaecf69.jpg",
+    "static/media/paint10.18df7187.jpg": "/estafa/static/media/paint10.18df7187.jpg",
+    "static/media/paint11.cda35d20.jpg": "/estafa/static/media/paint11.cda35d20.jpg",
+    "static/media/paint12.21133ee3.jpg": "/estafa/static/media/paint12.21133ee3.jpg",
+    "static/media/paint2.8039ec61.jpg": "/estafa/static/media/paint2.8039ec61.jpg",
+    "static/media/paint3.df3542c4.jpg": "/estafa/static/media/paint3.df3542c4.jpg",
+    "static/media/paint4.638aa96f.jpg": "/estafa/static/media/paint4.638aa96f.jpg",
+    "static/media/paint5.dfc4df87.jpg": "/estafa/static/media/paint5.dfc4df87.jpg",
+    "static/media/paint6.4579719c.jpg": "/estafa/static/media/paint6.4579719c.jpg",
+    "static/media/paint7.633abc16.jpg": "/estafa/static/media/paint7.633abc16.jpg",
+    "static/media/paint8.9c39f627.jpg": "/estafa/static/media/paint8.9c39f627.jpg",
+    "static/media/paint9.35c726ab.jpg": "/estafa/static/media/paint9.35c726ab.jpg",
+    "static/media/weirdpeople.47505e10.jpg": "/estafa/static/media/weirdpeople.47505e10.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9aa953d4.js",
+    "static/js/2.a9a521a6.chunk.js",
+    "static/css/main.5b0784d6.chunk.css",
+    "static/js/main.e4ecbeae.chunk.js"
+  ]
+}
